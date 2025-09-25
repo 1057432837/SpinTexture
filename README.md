@@ -1,1 +1,2 @@
 # SpinTexture
+python spin.py
